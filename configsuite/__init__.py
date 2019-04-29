@@ -36,6 +36,7 @@ from configsuite.types import (
     Dict,
     NamedDict,
     validator_msg,
+    transformation_msg,
 )
 from configsuite.validation_errors import (
     ValidationError,
